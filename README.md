@@ -11,5 +11,3 @@ O restaurante universitário da UFSM é um dos se não o principal auxiliar dos 
 - Feedback de usuários
 - Tendências
 - Classificação de respostas
-
-- 
