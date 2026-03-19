@@ -10,4 +10,4 @@ O restaurante universitário da UFSM é um dos se não o principal auxiliar dos 
 -Mineração de dados
 -Tendências
 -Classificação de respostas
--Feedback
+-Feedback 
