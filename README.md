@@ -1,4 +1,4 @@
-# tcc-identificar-tendencias-no-RU
+# tcc identificar tendencias no RU
 
 ## Objetivo 
 Analisar as tendências nos comentários do RU da UFSM
